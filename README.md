@@ -4,7 +4,7 @@
 - 🌱 Atualmente estudando Backend com Node.js 🚀
 - 📫 Contate-me no email: luisvinilm@gmail.com
 - 😄 Pronouns: ele/dele
-- Meu linkedin: linkedin.com/in/luis-vinicius-39827b2b3
+- Meu linkedin: www.linkedin.com/in/luis-vinicius-39827b2b3
 
 <div>
   <a href="https:/github.com/LuisViniciusLM"></a>
